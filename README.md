@@ -122,13 +122,5 @@ Notes & caveats- Alignments: the scripts align on GTEX sample IDs. Ensure your p
 
 - Per-gene performance is more informative than a single global scatter; see `methods_precise.md` for recommended reporting (per-gene R^2 distribution, representative gene plots, cross-validation).
 - The smoke-run fit scalers globally for simplicity; for publication-quality runs fit scalers on training data only.
-
-Support
--------
-If you want me to:
-- generate publication-ready per-gene plots (histogram, CDF, three example genes), say: "Make plots"; or
-- re-run training at larger scale, provide `--max-genes` and `--epochs` values; or
-- produce a single-gene plot, provide the ENSG ID or gene symbol.
-
 ---
 Updated: May 2026
