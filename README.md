@@ -10,9 +10,9 @@ Top-level filesFiles of interest
 
 ----------------
 
-- `GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.parquet` — GTEx TPM (large), original data used for targets.- `GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt` - GTEx sample attributes (metadata, TSV).
+- Download `GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.parquet` — GTEx TPM (large), original data used for targets.- `GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt` - GTEx sample attributes (metadata, TSV). 
 
-- `GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt` — GTEx sample attributes (metadata, TSV).- `GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.parquet` - GTEx TPM expression (Parquet). Large file.
+- Download `GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt` — GTEx sample attributes (metadata, TSV).- `GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.parquet` - GTEx TPM expression (Parquet). Large file.
 
 - `train_pytorch_pipeline.py` — end-to-end PyTorch training pipeline (feature engineering, donor split, training, evaluation).
 
